@@ -14,4 +14,4 @@ Project provides an overview of advanced dental health care and appointments.
 ## Ethics
 ![image](Ethics.jpg)
 
-Advanced details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Advanced details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022 and https://github.com/alpaddesai/HealthCare2022
