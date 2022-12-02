@@ -3,10 +3,10 @@
 Project provides an overview of advanced dental health care and appointments.
 
 ## Advanced Dental Health Care
-![image](AdvancedDentalConcernsI.jpg)
+![image](AdvancedDentalHealthSolutionsI.jpg)
 
 ## Advanced Dental Health Care
-![image](AdvancedDentalConcernsII.jpg)
+![image](AdvancedDentalHealthSolutionsII.jpg)
 
 ## Certificate
 ![image](USCopyrightCertificate.png)
